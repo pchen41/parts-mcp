@@ -1,0 +1,4 @@
+mcp server to query digikey for parts
+
+`npm run build` to build
+`npx @modelcontextprotocol/inspector node build/index.js` to test (you need to manually set the env vars in the mcp inspector ui)
